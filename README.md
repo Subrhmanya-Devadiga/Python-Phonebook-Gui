@@ -1,6 +1,6 @@
 # Python-Phonebook-gui
 
-# This is a contact book , which can save Name, ph_no, and Email address of the person
+# This is a contact book , which can save Name, ph_no, and Email address
 
 # This is writen in Python, Gui is written using Tkinter
 
